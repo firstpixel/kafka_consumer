@@ -1,0 +1,4 @@
+[2024-02-21 04:41:16,405] INFO [GroupMetadataManager brokerId=0] Group my-group-id transitioned to Dead in generation 32 (kafka.coordinator.group.GroupMetadataManager)
+[2024-02-21 04:41:16,692] INFO [LocalLog partition=__consumer_offsets-12, dir=/tmp/kafka-logs] Rolled new log segment at offset 229 in 53 ms. (kafka.log.LocalLog)
+[2024-02-21 04:41:16,719] INFO [ProducerStateManager partition=__consumer_offsets-12]Wrote producer snapshot at offset 229 with 0 producer ids in 15 ms. (org.apache.kafka.storage.internals.log.ProducerStateManager)
+[2024-02-21 04:41:16,737] INFO [GroupMetadataManager brokerId=0] Removed 3 expired offsets in 530 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
